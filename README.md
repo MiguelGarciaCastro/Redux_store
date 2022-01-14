@@ -52,3 +52,4 @@ Node.js
 **HEROKU DEPLOY -->**
 
 **Github**
+https://github.com/MiguelGarciaCastro/Redux_store.git
