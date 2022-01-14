@@ -38,3 +38,17 @@ This project is a full stack web application using the MERN Stack to create an e
 <img width="1792" alt="Screen Shot 2022-01-14 at 5 33 14 PM" src="https://user-images.githubusercontent.com/87445858/149595951-76b2a0da-71f3-4a4f-80f4-8899d7ade8b7.png">
 
 <img width="1792" alt="Screen Shot 2022-01-14 at 5 33 32 PM" src="https://user-images.githubusercontent.com/87445858/149595969-285ba9f0-1584-4041-82f1-0c4d68026630.png">
+
+**TECH USED**
+
+Redux
+
+React.js
+
+MongoDB
+
+Node.js
+
+**HEROKU DEPLOY -->**
+
+**Github**
