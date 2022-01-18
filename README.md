@@ -49,7 +49,7 @@ MongoDB
 
 Node.js
 
-**HEROKU DEPLOY -->**
+**HEROKU DEPLOY -->** https://reduxstoree.herokuapp.com/
 
 **Github**
 https://github.com/MiguelGarciaCastro/Redux_store.git
